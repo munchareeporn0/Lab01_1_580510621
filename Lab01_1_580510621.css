@@ -1,0 +1,36 @@
+thead{
+    color: #000044;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 100%;
+}
+
+th{
+    color: #000044;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+}
+
+td{
+    color: #1E90FF;
+    text-align: center;
+    font-size: 18px;
+}
+
+h2{
+    color: #BA55D3;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+*{
+font-family: 'Oswald', sans-serif;
+}
